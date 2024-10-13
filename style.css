@@ -11,7 +11,7 @@
     font-family: 'Times New Roman', Times, serif;
 }
 .header a{
-    margin: 10px;
+    margin: 15px;
     font-weight: 700;
     color: purple;
     font-family: cursive;
@@ -52,13 +52,13 @@
 }
 @media(max-width:410px){
     .header a{
-        margin: 10px;
+        margin: 15px;
     }
     .header{padding: 15px;}
 }
 @media(max-width:377px){
     .header a{
-        margin: 10px;
+        margin: 15px;
         font-size: 17px;
     }
     .header button{font-size: 17px;}
@@ -68,7 +68,7 @@
 }
 @media(max-width:312px){
     .header a{
-        margin: 7px;
+        margin: 10px;
         font-size: 17px;
     }
     .header button{font-size: 17px;}
